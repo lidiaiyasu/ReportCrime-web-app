@@ -1,9 +1,6 @@
 # Ethiopian Federal Police — Criminal Recording System (Next.js)
 
-A Next.js (App Router) port of the original static HTML/CSS/JS site, rebuilt
-as a production-shaped application: TypeScript, validated forms, a real
-(mock) API + data layer, officer authentication, responsive/accessible nav,
-SEO basics, and tests + CI.
+
 
 ## Getting started
 
